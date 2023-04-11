@@ -42,7 +42,7 @@ order by TrnsRev desc
 Answer:
 Refferral is the traffic source with the most revenue.
 
-![](/Users/patrick/Desktop/Lighthouse_labs/LHL_Week_One_Project/Files/TransByTraffic.png)
+![](https://github.com/pokwir/LHL_Week_One_Project/blob/main/Files/TransByTraffic.png)
 
 
 Question 2: Event Tracking. Which Event(s) generate the most revenue?
@@ -90,7 +90,7 @@ order by TrnsRev desc
 Answer:
 Page views seems to be generating more revenue than events like downloading, filling and submitting forms or playing video games.
 
-![](/Users/patrick/Desktop/Lighthouse_labs/LHL_Week_One_Project/Files/RevByEvent.png)
+![](https://github.com/pokwir/LHL_Week_One_Project/blob/main/Files/RevByEvent.png)
 
 
 Question 3: Total number of unique visitors that made a purchase

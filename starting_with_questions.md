@@ -56,7 +56,7 @@ SQL Queries:
 Answer:
 
 
-![](/Users/patrick/Desktop/Lighthouse_labs/LHL_Week_One_Project/Files/CitiesCountriesHighestTransRev.png)
+![](https://github.com/pokwir/LHL_Week_One_Project/blob/main/Files/CitiesCountriesHighestTransRev.png)
 
 
 ## Question 2: What is the average number of products ordered from visitors in each city and country?
@@ -102,13 +102,13 @@ order by Avgquantity desc
 ```
 
 Answer:
-![](/Users/patrick/Desktop/Lighthouse_labs/LHL_Week_One_Project/Files/AvgPrdtsVisitorsCityCountry.png)
+![](https://github.com/pokwir/LHL_Week_One_Project/blob/main/Files/AvgPrdtsVisitorsCityCountry.png)
 
 ## Question 3: Is there any pattern in the types (product categories) of products ordered from visitors in each city and country?
 
 Most ordered product categories  by country appear to be coming from metropolitan cities .
 
-![](/Users/patrick/Desktop/Lighthouse_labs/LHL_Week_One_Project/Files/PatternPrdtCategory.png)
+![](https://github.com/pokwir/LHL_Week_One_Project/blob/main/Files/PatternPrdtCategory.png)
 
 SQL Queries:
 
@@ -211,7 +211,7 @@ Answer:
 
 The top selling product(s) varries by  country and city,. The top selling product is the hard cover journal in two countries and three cities.
 
-![](/Users/patrick/Desktop/Lighthouse_labs/LHL_Week_One_Project/Files/TopSellingPrdts.png)
+![](https://github.com/pokwir/LHL_Week_One_Project/blob/main/Files/TopSellingPrdts.png)
 
 
 ## Question 5: Can we summarize the impact of revenue generated from each city/country?
@@ -285,4 +285,4 @@ Answer:
 The top performing country is India — brought the most revenue to the site, specifically Bengaluru and New Delhi.
 
 
-![](/Users/patrick/Desktop/Lighthouse_labs/LHL_Week_One_Project/Files/TopPerfCountry.png)
+![](https://github.com/pokwir/LHL_Week_One_Project/blob/main/Files/TopPerfCountry.png)
