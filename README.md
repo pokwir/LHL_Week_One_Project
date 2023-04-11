@@ -19,8 +19,8 @@ Using appropriate QA queries in postgresql, unwanted or redundant columns that d
 (fill in what you discovered this data could tell you and how you used the data to answer those questions)
 
 ## Challenges
-Duplicates — The data set especially the All_sessions table had quite a number of duplicates.
-Withheld observations. Some country names and cities were Withheld from the dataset.
+* Duplicates — The data set especially the All_sessions table had quite a number of duplicates.
+* Withheld observations. Some country names and cities were Withheld from the dataset.
 
 ## Future Goals
 Investigate/ followup on missing/ inaccurate observations in the all_sessions table.
